@@ -106,6 +106,7 @@
             android:background="@color/colorAccent"
             android:gravity="center"
             android:text="Capstone"
+            android:textColor="@android:color/white"
             android:textSize="48sp" />
 
     </LinearLayout>

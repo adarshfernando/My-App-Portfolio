@@ -1,3 +1,10 @@
+
+/*
+* Adarsh Fernando - v0.1 - 10/31/2015
+* This app will serve as a launchpad for other apps created in the Udacity Android Developers Nanodegree Program.
+* Each app buttons will launch their respective apps as they become available
+* */
+
 package com.adarshfernando.android.myappportfolio;
 
 import android.os.Bundle;
