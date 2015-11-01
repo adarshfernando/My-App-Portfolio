@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
     <string name="action_settings">Settings</string>
+    <string name="applicationTitle">Apps:</string>
+    <string name="application1">Popular Movies</string>
+    <string name="application2">Football Scores</string>
+    <string name="application3">Library</string>
+    <string name="application4">Build It Bigger</string>
+    <string name="application5">XYZ Reader</string>
+    <string name="capstone">Capstone</string>
 </resources>
